@@ -39,8 +39,8 @@ theme: minima
 #  - jekyll-feed
 #  - jekyll-redirect-from
 
-#minima:
-# skin: dark
+minima:
+ skin: dark
 
 header_pages:
   - index.markdown
