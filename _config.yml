@@ -33,11 +33,13 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #github_username:  jekyll
 
 # Build settings
-theme: minima
+#theme: minima
+remote_theme: jekyll/minima
 #theme: jekyll-theme-minimal
-#plugins:
+plugins:
 #  - jekyll-feed
-#  - jekyll-redirect-from
+  - jekyll-redirect-from
+  - jekyll-remote-theme
 
 minima:
  skin: dark
