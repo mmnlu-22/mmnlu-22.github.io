@@ -18,15 +18,25 @@ Participants are not required to participate in both tasks, and a given particip
 
 The competition uses the MASSIVE dataset. MASSIVE—Multilingual Amazon Slu resource package (SLURP) for Slot-filling, Intent classification, and Virtual assistant Evaluation—contains 1 million realistic, parallel, labeled virtual assistant text utterances spanning 51 languages, 18 domains, 60 intents, and 55 slots. MASSIVE was created by tasking professional translators to localize or translate the English-only (SLURP dataset) into 50 typologically diverse languages from 29 genera. We have released a paper describing the dataset and presenting initial modeling results on XLM-R and mT5. Tools for the dataset, as well as the modeling code used for our baseline results given in the paper, are available in our Github repository, linked below:
 
-[Download the dataset and see example code here](https://github.com/alexa/massive)
+[Download the dataset and see example code here](https://github.com/alexa/massive). The evaluation split will be made available from July 25th through Aug 8th, after which the winner will be chosen. Until then modeling may be performed using the MASSIVE training, validation, and test splits, and submissions may be made to the permanent MASSIVE leaderboard using the test split.
 
 Here is an abbreviated example input to an MMNLU model:
 
-```{ "utt": "despiértame a las nueve de la mañana el viernes" }```
+```
+{
+    "utt": "despiértame a las nueve de la mañana el viernes"
+}
+```
 
 And here is an abbreviated example output from an MMNLU model:
 
-```{ "scenario": "alarm", "intent": "alarm_set", "annot_utt": "despiértame a las [time : nueve de la mañana] el [date : viernes]" }```
+```
+{
+    "scenario": "alarm",
+    "intent": "alarm_set",
+    "annot_utt": "despiértame a las [time : nueve de la mañana] el [date : viernes]"
+}
+```
 
 Rules:
 
