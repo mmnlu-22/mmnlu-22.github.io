@@ -20,6 +20,8 @@ The competition uses the MASSIVE dataset. MASSIVE—Multilingual Amazon Slu reso
 
 [Download the dataset and see example code here](https://github.com/alexa/massive). The evaluation split will be made available from July 25th through Aug 8th, after which the winner will be chosen. Until then modeling may be performed using the MASSIVE training, validation, and test splits, and submissions may be made to the permanent MASSIVE leaderboard using the test split.
 
+[Read the MASSIVE paper here](https://arxiv.org/abs/2204.08582)
+
 Here is an abbreviated example input to an MMNLU model:
 
 ```
