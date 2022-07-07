@@ -7,6 +7,8 @@ nav_order: 3
 
 **[Click here for the Massively Multilingual 2022 Competition on eval.ai](https://eval.ai/web/challenges/challenge-page/1697/overview)**
 
+**[Join the Slack workspace here](https://join.slack.com/t/mmnlu-22/shared_invite/zt-1c5p3d3hw-8Ou0QJahOUrEzt5YDYl5Dw)**
+
 The Massively Multilingual NLU 2022 Competition is designed to advance the state of the art of massively multilingual natural language understanding, in which a single model can understand and parse text inputs from many different languages.
 
 There are two tasks:

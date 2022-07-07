@@ -5,6 +5,8 @@ permalink: /Calls/
 nav_order: 2
 ---
 
+**[Join the Slack workspace here](https://join.slack.com/t/mmnlu-22/shared_invite/zt-1c5p3d3hw-8Ou0QJahOUrEzt5YDYl5Dw)**
+
 ## Topics
 
 We seek papers on the following topics:
