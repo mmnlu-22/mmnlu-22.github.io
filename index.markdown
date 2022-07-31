@@ -26,7 +26,8 @@ By 2023 there will be over 8 billion virtual assistants worldwide, the majority 
 * **Apr 20th:** Release of the [MASSIVE dataset](https://github.com/alexa/massive) (training, validation, test splits) and [paper](https://arxiv.org/abs/2204.08582)
 * **~~Aug 15th~~ July 15th:** ACL Rolling Review (ARR) submission deadline
 * **Jul 25th:** Release of the [MMNLU-22 Competition](https://eval.ai/web/challenges/challenge-page/1697/overview) evaluation set
-* **Sep 2nd:** (~~Aug 8th:~~) End of [MMNLU-22 Competition](https://eval.ai/web/challenges/challenge-page/1697/overview)
+* **Aug 8th:** Competition deadline for the top-scoring model awards
+* **Sep 2nd:** Competition deadline for the organizers' choice award and end of [MMNLU-22 Competition](https://eval.ai/web/challenges/challenge-page/1697/overview)
 * **Sep 7th:** OpenReview submission deadline
 * **Oct 2nd:** ARR commitment deadline
 * **Oct 9th:** Acceptance notifications
