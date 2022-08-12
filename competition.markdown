@@ -5,6 +5,17 @@ permalink: /Competition/
 nav_order: 3
 ---
 
+12 Aug 2022 Update:
+* We welcome submissions until Sep 2nd for the MMNLU-22 Organizers’ Choice Award, as well as direct [paper submissions](https://mmnlu-22.github.io/Calls/) until Sep 7th. The Organizers’ Choice Award is based primarily on our assessment of the promise of an approach, not only on the evaluation scores. To be eligible, please (a) make a submission on [eval.ai](https://eval.ai/web/challenges/challenge-page/1697/overview) to either MMNLU-22 task and (b) send a brief (<1 page) writeup of your approach to `mmnlu-22@amazon.com` describing the following:
+  * Your architecture,
+  * Any changes to training data, use of non-public data, or use of public data,
+  * How dev data was used and what hyperparameter tuning was performed,
+  * Model input and output formats,
+  * What tools and libraries you used, and
+  * Any additional training techniques you used, such as knowledge distillation.
+* We are pleased to declare the **HIT-SCIR** team as the winner of the MMNLU-22 Competition [**Full Dataset Task**](https://eval.ai/web/challenges/challenge-page/1697/leaderboard/4060). Congratulations to Bo Zheng, Zhuoyang Li, Fuxuan Wei, Qiguang Chen, Libo Qin, and Wanxiang Che from the [Research Center for Social Computing and Information Retrieval, Harbin Institute of Technology](http://ir.hit.edu.cn/). The team has been invited to speak at the MMNLU-22 workshop on Dec 7th, where you can learn more about their approach.
+* We are pleased to declare the **FabT5** team as the winner of the MMNLU-22 Competition [**Zero-Shot Task**](https://eval.ai/web/challenges/challenge-page/1697/leaderboard/4061). Congratulations to Massimo Nicosia and Francesco Piccinno from Google. They have been invited to speak at the MMNLU-22 workshop on Dec 7th, where you can learn more about their approach.
+
 **[Click here for the Massively Multilingual 2022 Competition on eval.ai](https://eval.ai/web/challenges/challenge-page/1697/overview)**
 
 **[Join the Slack workspace here](https://join.slack.com/t/mmnlu-22/shared_invite/zt-1c5p3d3hw-8Ou0QJahOUrEzt5YDYl5Dw)**
