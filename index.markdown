@@ -80,6 +80,12 @@ By 2023 there will be over 8 billion virtual assistants worldwide, the majority 
 ![](images/mohit.png){: width="150"}
 *[Mohit Bansal](https://www.cs.unc.edu/~mbansal/), UNC, USA*
 
+![](images/charith.jpeg){: width="150"}
+*[Charith Peris](https://www.linkedin.com/in/charith-peris/), Amazon Alexa, USA*
+
+![](images/chris.jpeg){: width="150"}
+*[Christopher Hench](https://www.linkedin.com/in/charith-peris/), Amazon Alexa, USA*
+
 ## Competition (Shared Tasks) Organizers
 
 ![](images/charith.jpeg){: width="150"}
