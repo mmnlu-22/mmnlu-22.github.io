@@ -66,6 +66,9 @@ By 2023 there will be over 8 billion virtual assistants worldwide, the majority 
 ![](images/sebastian.jpeg){: width="150"}
 *[Sebastian Ruder](https://ruder.io), Google, UK*
 
+![](images/david.jpg){: width="150"}
+*[David Yarowsky](https://www.clsp.jhu.edu/faculty/david-yarowsky/), JHU, USA*
+
 ## Workshop Organizers
 
 ![](images/jgmf.jpeg){: width="150"}
