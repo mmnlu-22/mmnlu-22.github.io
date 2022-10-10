@@ -39,7 +39,7 @@ By 2023 there will be over 8 billion virtual assistants worldwide, the majority 
 * **Sep 2nd:** Competition deadline for the organizers' choice award and end of [MMNLU-22 Competition](https://eval.ai/web/challenges/challenge-page/1697/overview)
 * **Sep 7th:** OpenReview submission deadline
 * **Oct 2nd:** ARR commitment deadline
-* **Oct 9th:** Acceptance notifications
+* **~~Oct 9th~~ (TBA):** Acceptance notifications
 * **Oct 16th:** Camera ready deadline
 * **Dec 7th:** Massively Multilingual NLU 2022 Workshop
 
