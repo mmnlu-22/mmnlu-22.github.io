@@ -12,6 +12,7 @@ Dec 7, 2022
 By 2023 there will be over 8 billion virtual assistants worldwide, the majority of which will be on smartphones. Additionally, over 100 million smart speakers have been sold, most of which exclusively use a voice interface and require Natural Language Understanding (NLU) during every user interaction in order to function. However, even as we approach the point in which there will be more virtual assistants than people in the world, major virtual assistants still only support a small fraction of the world’s languages. This limitation is driven by the lack of labeled data, the expense associated with human-based quality assurance, model maintenance and update costs, and more. Innovation is how we will jump these hurdles. The vision of this workshop is to help propel natural language understanding technology into the 50-language, 100-language, and even the 1,000-language regime, both for production systems and for research endeavors.
 
 ## News
+* **26 Oct:** We are pleased to declare Maxime De Bruyn, Ehsan Lotfi, Jeska Buhmann, and Walter Daelemans of the `bolleke` team as the winners of the Organizers' Choice Award! Please come to our workshop to hear more about their model and their associated paper, Machine Translation for Multilingual Intent Detection and Slots Filling.
 * **12 Aug:** We welcome submissions until Sep 2nd for the MMNLU-22 Organizers’ Choice Award, as well as direct [paper submissions](https://mmnlu-22.github.io/Calls/) until Sep 7th. The Organizers’ Choice Award is based primarily on our assessment of the promise of an approach, not only on the evaluation scores. To be eligible, please (a) make a submission on [eval.ai](https://eval.ai/web/challenges/challenge-page/1697/overview) to either MMNLU-22 task and (b) send a brief (<1 page) writeup of your approach to `mmnlu-22@amazon.com` describing the following:
   * Your architecture,
   * Any changes to training data, use of non-public data, or use of public data,
@@ -40,7 +41,7 @@ By 2023 there will be over 8 billion virtual assistants worldwide, the majority 
 * **Sep 7th:** OpenReview submission deadline
 * **Oct 2nd:** ARR commitment deadline
 * **~~Oct 9th~~ (TBA):** Acceptance notifications
-* **Oct 16th:** Camera ready deadline
+* **~~Oct 16th~~ Oct 26th:** Camera ready deadline
 * **Dec 7th:** Massively Multilingual NLU 2022 Workshop
 
 ## Invited Speakers
@@ -48,14 +49,11 @@ By 2023 there will be over 8 billion virtual assistants worldwide, the majority 
 ![](images/heng.png){: width="150"}
 *[Heng Ji](http://blender.cs.illinois.edu/hengji.html), UIUC, USA*
 
-![](images/pascale.jpg){: width="150"}
-*[Pascale Fung](https://pascale.home.ece.ust.hk/), HKUST, China*
-
 ![](images/geraldine.png){: width="150"}
 *[Géraldine Damnati](https://sites.google.com/site/geraldinedamnati/), Orange Labs, France*
 
-![](images/dilek.jpeg){: width="150"}
-*[Dilek Hakkani-Tür](https://www.linkedin.com/in/dilek-hakkani-tur-9517543/), Amazon Alexa, USA*
+![](images/mahdi.jpeg){: width="150"}
+*[Mahdi Namazifar](https://www.linkedin.com/in/namazifar/), Amazon Alexa, USA*
 
 ![](images/kathy.jpeg){: width="150"}
 *[Kathy McKeown](http://www.cs.columbia.edu/~kathy/), Columbia University, USA*
