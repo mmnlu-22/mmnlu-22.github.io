@@ -55,9 +55,6 @@ By 2023 there will be over 8 billion virtual assistants worldwide, the majority 
 ![](images/mahdi.jpeg){: width="150"}
 *[Mahdi Namazifar](https://www.linkedin.com/in/namazifar/), Amazon Alexa, USA*
 
-![](images/kathy.jpeg){: width="150"}
-*[Kathy McKeown](http://www.cs.columbia.edu/~kathy/), Columbia University, USA*
-
 ![](images/anna.jpeg){: width="150"}
 *[Anna Rumshisky](https://www.cs.uml.edu/~arum/), UMass Lowell, USA*
 
