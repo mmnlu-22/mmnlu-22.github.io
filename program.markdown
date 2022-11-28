@@ -1,6 +1,6 @@
 ---
 layout: page
-Program
+title: Program
 permalink: /Program/
 nav_order: 4
 ---
