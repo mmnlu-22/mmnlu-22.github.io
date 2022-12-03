@@ -25,7 +25,7 @@ The workshop will take place on 7 Dec 2022 as part of EMNLP. All times are given
     * start_time: 11:00:00
     * end_time: 11:30:00
     * chair: Kay Rottmann
-* "Organizers' Choice Award: Maxime De Bruyn and the bolleke team"
+* "Invited Talk by Sebastian Ruder, Google: Towards Massively Multilingual Modular Models"
     * start_time: 11:30:00
     * end_time: 12:00:00
     * chair: Kay Rottmann
@@ -36,7 +36,7 @@ The workshop will take place on 7 Dec 2022 as part of EMNLP. All times are given
 * Lunch
     * start_time: 12:30:00
     * end_time: 13:30:00
-* "Invited Talk by Sebastian Ruder, Google: Towards Massively Multilingual Modular Models"
+* "Organizers' Choice Award: Maxime De Bruyn and the bolleke team"
     * start_time: 13:30:00
     * end_time: 14:00:00
     * chair: Jack FitzGerald
